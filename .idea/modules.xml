@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter1-out-an-image/chapter1-out-an-image.iml" filepath="$PROJECT_DIR$/chapter1-out-an-image/chapter1-out-an-image.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_1_output_an_image/chapter_1_output_an_image.iml" filepath="$PROJECT_DIR$/chapter_1_output_an_image/chapter_1_output_an_image.iml" />
     </modules>
   </component>

@@ -4,11 +4,11 @@
 
 - done Chapter 1. Output an image
 
-- todo Chapter 2. The vec3 class
+- done Chapter 2. The vec3 class
 
-- Chapter 3: Rays, a simple camera, and background
+- done Chapter 3: Rays, a simple camera, and background
 
-- Chapter 4: Adding a sphere 
+- todo Chapter 4: Adding a sphere 
 
 - Chapter 5: Surface normals and multiple objects
 
@@ -32,6 +32,10 @@
 
 `project > module > package`
 
+# 迭代器
+
+## 如何用函数式处理规定长度的循环
+
 ## 类
 
 ### 构造函数
@@ -54,7 +58,11 @@
 
 ### 与泛型的区别和互补
 
+# 容器
+
 ## 数组
+
+### 数组与字符串的转化
 
 # 算法
 

@@ -8,9 +8,9 @@
 
 - done Chapter 3: Rays, a simple camera, and background
 
-- todo Chapter 4: Adding a sphere 
+- done Chapter 4: Adding a sphere 
 
-- Chapter 5: Surface normals and multiple objects
+- todo Chapter 5: Surface normals and multiple objects
 
 - Chapter 6: Antialiasing
 
@@ -68,7 +68,15 @@
 
 ## 向量运算
 
+### 向量内积
+
+### 球的表示
+
+### 直线与球的相交
+
 ## change log
 
 - 2020/10/05 created doc
+
+- 2020/10/06 完成第四章
  

@@ -28,7 +28,7 @@ public class Sphere extends Hitable {
             }
 
             // 优先选取符合范围，且较小的撞击点
-            if (temp != Float.MAX_VALUE && temp2 < t_max && temp2 > t_min) {
+            if (temp == Float.MAX_VALUE && temp2 < t_max && temp2 > t_min) {
                 temp = temp2;
             }
 

@@ -26,6 +26,16 @@
 
 - Chapter 12: Where next?
 
+
+## 资料
+
+- [用Java实现一个光线追踪渲染器](https://zhuanlan.zhihu.com/p/49943215)
+
+- [用Java实现一个光线追踪渲染器（下）](https://zhuanlan.zhihu.com/p/50451925)
+
+- [RayTracingInOneWeekend Java 源码](https://github.com/yhcheer/RayTracingInOneWeekend)
+
+
 # Java 基础
 
 ## 代码结构

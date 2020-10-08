@@ -27,7 +27,7 @@ public class Metal extends Material {
      * @param n 撞击点的法向量
      * @return 反射光线
      */
-    Vec3 reflect(Vec3 v, Vec3 n) {
+    private Vec3 reflect(Vec3 v, Vec3 n) {
         // v - 2 * dot(v, n) * n
         return v.Subtract(n.Scale(v.dot(n)*2));
     }

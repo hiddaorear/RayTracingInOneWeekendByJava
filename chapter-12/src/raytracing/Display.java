@@ -28,14 +28,14 @@ public class Display {
         String pictureName = Display.init(title);
         System.out.println("pictureName: " + pictureName);
 
-        Hitable world = new HitableList(random_scene());
+        Hitable world = new HitableList(randomScene());
 
         float aspect = (float)width/(float)height;  //宽高比
         Vec3 lookfrom = new Vec3(3, 3, 2);
         Vec3 lookat = new Vec3(0, 0, -1);
         float dist_to_focus = (lookfrom.Subtract(lookat)).length();
         float aperture = 2.0f;
-        Camera camera = new Camera(lookfrom, lookat, new Vec3(0, 1, 0), 40, aspect, aperture, dist_to_focus);
+        Camera camera = new Camera(lookfrom, lookat, new Vec3(0, 1, 0), 20, aspect, aperture, dist_to_focus);
 
         int ns = 50; // 采样次数，消除锯齿
 
@@ -71,7 +71,7 @@ public class Display {
         }
     }
 
-    List<Hitable> random_scene() {
+    List<Hitable> randomScene() {
 
         List<Hitable> objList = new ArrayList<Hitable>();
         //超大漫反射球作为地板

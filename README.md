@@ -2,15 +2,15 @@
 
 ## list
 
-- done Chapter 1. Output an image
+- Chapter 1. Output an image
 
-- done Chapter 2. The vec3 class
+- Chapter 2. The vec3 class
 
-- done Chapter 3: Rays, a simple camera, and background
+- Chapter 3: Rays, a simple camera, and background
 
-- done Chapter 4: Adding a sphere 
+- Chapter 4: Adding a sphere 
 
-- todo Chapter 5: Surface normals and multiple objects
+- Chapter 5: Surface normals and multiple objects
 
 - Chapter 6: Antialiasing
 

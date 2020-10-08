@@ -42,6 +42,12 @@
 
 `project > module > package`
 
+# 抽象技巧
+
+## 重构if语句
+
+## 类的树形结构
+
 # Java 调试技巧
 
 ## 空指针异常调试
